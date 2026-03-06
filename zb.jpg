@@ -1,5 +1,5 @@
 🛰斗地主频道,#genre#
-
+JJ斗地主,http://cfss.cc/cdn/yy/1355501191.m3u8
 JJ斗地主专场,https://isus.cc/php/huya.php?id=30814433
 欢乐斗地主专场,https://isus.cc/php/huya.php?id=21103928
 
@@ -151,6 +151,7 @@ CCTV17 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 广东卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 辽宁卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+江苏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 江苏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 河北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
@@ -165,21 +166,20 @@ CCTV17 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 💥香港高清,#genre#
 
-凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
-凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-
-
-凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=78222c9fd0db33e9efc2400b506c126c
-凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=78222c9fd0db33e9efc2400b506c126c
-凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=78222c9fd0db33e9efc2400b506c126c
+凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
+凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
+凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 
  🎥CHC高清,#genre#
+CHC影迷电影,http://156.238.248.80:8880/play/57.m3u8
+CHC动作电影,http://156.238.248.80:8880/play/58.m3u8
+CHC家庭影院,http://156.238.248.80:8880/play/59.m3u8
 
-家庭影院,http://yhms.aylzline.top:8899/rtp/225.1.2.214:11422
-动作电影,http://yhms.aylzline.top:8899/rtp/225.1.2.215:11428
-影迷电影,http://yhms.aylzline.top:8899/rtp/225.1.2.210:11398
-经典电影,http://yhms.aylzline.top:8899/rtp/225.1.2.167:11020
+
+CHC家庭影院,http://yhms.aylzline.top:8899/rtp/225.1.2.214:11422
+CHC动作电影,http://yhms.aylzline.top:8899/rtp/225.1.2.215:11428
+CHC影迷电影,http://yhms.aylzline.top:8899/rtp/225.1.2.210:11398
+CHC经典电影,http://yhms.aylzline.top:8899/rtp/225.1.2.167:11020
 
 
 🎬NewTV高清,#genre#
@@ -235,7 +235,6 @@ NewTV金牌综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666
 黑莓电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-动作电影,http://43.138.0.72:35455/yy/1382736823
 1905电影,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 美国4K,https://fl1001.bozztv.com/ushba40/index.m3u8
 
