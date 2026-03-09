@@ -187,6 +187,35 @@ CCTV17,http://111.8.242.103:9999/tsfile/live/1025_1.m3u8
 金鹰纪实高清,http://111.8.242.103:9999/tsfile/live/1096_1.m3u8
 中央气象,http://111.8.242.103:9999/tsfile/live/1088_1.m3u8
 
+✨咪咕央视高清1,#genre#
+CCTV1-综合,http://156.238.248.80:8880/play/1.m3u8
+CCTV2-财经,http://156.238.248.80:8880/play/2.m3u8
+CCTV3-综艺,http://156.238.248.80:8880/play/3.m3u8
+CCTV4-国际,http://156.238.248.80:8880/play/4.m3u8
+CCTV5-体育,http://156.238.248.80:8880/play/5.m3u8
+CCTV5+,http://156.238.248.80:8880/play/6.m3u8
+CCTV6-电影,http://156.238.248.80:8880/play/7.m3u8
+CCTV7-国防军事,http://156.238.248.80:8880/play/8.m3u8
+CCTV8-电视剧,http://156.238.248.80:8880/play/9.m3u8
+CCTV9-纪录,http://156.238.248.80:8880/play/10.m3u8
+CCTV10-科教,http://156.238.248.80:8880/play/11.m3u8
+CCTV11-戏曲,http://156.238.248.80:8880/play/12.m3u8
+CCTV12-社会与法,http://156.238.248.80:8880/play/13.m3u8
+CCTV13-新闻,http://156.238.248.80:8880/play/14.m3u8
+CCTV14-少儿,http://156.238.248.80:8880/play/15.m3u8
+CCTV15-音乐,http://156.238.248.80:8880/play/16.m3u8
+CCTV16-奥林匹克,http://156.238.248.80:8880/play/17.m3u8
+CCTV17-农村农业,http://156.238.248.80:8880/play/18.m3u8
+CCTV4-中文国际欧洲,http://156.238.248.80:8880/play/19.m3u8
+CCTV4-中文国际美洲洲,http://156.238.248.80:8880/play/20.m3u8
+sxbc7-体育休闲,http://156.238.248.80:8880/play/24.m3u8
+sxbc-体育休闲,http://156.238.248.80:8880/play/25.m3u8
+sxbc-银龄,http://156.238.248.80:8880/play/45.m3u8
+sxbc-都市青春,http://156.238.248.80:8880/play/46.m3u8
+sxbc-秦腔,http://156.238.248.80:8880/play/47.m3u8
+sxbc-新闻资讯,http://156.238.248.80:8880/play/48.m3u8
+
+
 
 💝央视高清,#genre#
 CCTV4k ,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
@@ -264,16 +293,12 @@ CCTV17 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
-美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
-POPC电影台,http://pull-vivek.speedws.com/live/aaapopc.flv
-华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
-黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
-天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 
 🎥CHC高清,#genre#
-CHC影迷电影,http://156.238.248.80:8880/play/57.m3u8
-CHC动作电影,http://156.238.248.80:8880/play/58.m3u8
-CHC家庭影院,http://156.238.248.80:8880/play/59.m3u8
+
+CHC影迷电影,http://156.238.248.80:8880/play/58.m3u8
+CHC动作电影,http://156.238.248.80:8880/play/59.m3u8
+CHC家庭影院,http://156.238.248.80:8880/play/60.m3u8
 
 
 CHC家庭影院,http://yhms.aylzline.top:8899/rtp/225.1.2.214:11422
