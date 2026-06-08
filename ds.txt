@@ -15,9 +15,8 @@ JJ斗地主专场,https://isus.cc/php/huya.php?id=30814433
 黑龙江少儿,http://39.134.67.108/PLTV/88888888/224/3221225979/1.m3u8$高清
 
 💝央视高清,#genre#
-CCTV4k ,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV8k ,http://rihou.cc:555/tv/8k
-CCTV8k ,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回放
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$可回放
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$可回放
@@ -40,24 +39,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 中国教育2 4M576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 中国教育4 4M576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
- 
-电视指南,http://tonyk.56301232.xyz:3477/rtp/239.37.0.115:5540
-女性时尚,http://tonyk.56301232.xyz:3477/rtp/239.37.0.69:5540
-兵器科技,http://tonyk.56301232.xyz:3477/rtp/239.37.0.84:5540
-世界地理,http://tonyk.56301232.xyz:3477/rtp/239.37.0.79:5540
-怀旧剧场,http://tonyk.56301232.xyz:3477/rtp/239.37.0.82:5540
-风云足球,http://tonyk.56301232.xyz:3477/rtp/239.37.0.80:5540
-第一剧场,http://tonyk.56301232.xyz:3477/rtp/239.37.0.78:5540
-风云音乐,http://tonyk.56301232.xyz:3477/rtp/239.37.0.81:5540
-文化精品,http://tonyk.56301232.xyz:3477/rtp/239.37.0.83:5540
-风云剧场,http://tonyk.56301232.xyz:3477/rtp/239.37.0.114:5540
-央视台球,http://tonyk.56301232.xyz:3477/rtp/239.37.0.163:5540
-高尔夫网球,http://tonyk.56301232.xyz:3477/rtp/239.37.0.230:5540
-卫生健康,http://tonyk.56301232.xyz:3477/rtp/239.37.0.229:5540
-
-
-
-📹卫视高清,#genre#
+ 📹卫视高清,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$可回放
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$可回放
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$可回放
@@ -90,17 +72,24 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 
 💥港台高清,#genre#
 
-凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
-凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
-凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
-龙华电影,http://rihou.cc:555/tv/[Pd]%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1
-龙华经典,http://rihou.cc:555/tv/[Pd]%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8
+凤凰卫视,http://cdn6.163189.xyz/163189/fhzw#http://171.38.107.33:8282/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0#http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0#http://183.10.180.36:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0#
+http://183.10.180.81:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0#http://183.10.180.192:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx#http://171.38.107.33:8282/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视香港台,https://cdn6.163189.xyz/163189/fhhk#http://171.38.107.33:8282/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn#http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8#https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8#http://bxtv.3a.ink/api.php?id=fhhk
+凤凰卫视电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8#http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8#http://111.227.71.118:7000/rtp/239.254.201.1:5214#http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA#http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA#http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8#https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+Channel,http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0#http://111.221.137.234:44330/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0#http://home.yixi.pro:10043/udp/239.93.0.157:2194#http://home.yixi.pro:10043/udp/239.93.1.7:2194
 
 
 🎥CHC高清,#genre#
-CHC影迷电影,http://rihou.cc:555/tv/ymdy
-CHC动作电影,http://rihou.cc:555/tv/dzdy
-CHC家庭影院,http://rihou.cc:555/tv/jtyy
+家庭影院,http://219.156.49.186:9999/rtp/225.1.2.214:11422
+家庭影院,http://222.141.236.89:8003/rtp/225.1.2.214:11422
+动作电影,http://219.156.49.186:9999/rtp/225.1.2.215:11428
+动作电影,http://222.141.236.89:8003/rtp/225.1.2.215:11428
+影迷电影,http://219.156.49.186:9999/rtp/225.1.2.210:11398
+影迷电影,http://222.141.236.89:8003/rtp/225.1.2.210:11398
+经典电影,http://219.156.49.186:9999/rtp/225.1.2.167:11020
+经典电影,http://222.141.236.89:8003/rtp/225.1.2.167:11020
 
 🎬NewTV高清,#genre#
 NewTV东北热剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -141,21 +130,39 @@ NewTV金牌综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666
 
  📽直播高清,#genre#
 
-邵氏电影,http://rihou.cc:555/tv/[FY]%E9%82%B5%E6%B0%8F%E7%94%B5%E5%BD%B1
-邵氏武侠,http://rihou.cc:555/tv/[FY]%E9%82%B5%E6%B0%8F%E6%AD%A6%E4%BE%A0
-邵氏动作,http://rihou.cc:555/tv/[FY]%E9%82%B5%E6%B0%8F%E5%8A%A8%E4%BD%9C
-邵氏喜剧,http://rihou.cc:555/tv/[FY]%E9%82%B5%E6%B0%8F%E5%96%9C%E5%89%A7
-爱奇艺,http://rihou.cc:555/tv/aqy
-中国电影频道HD,http://rihou.cc:555/tv/dy
+潇湘电影,http://hunhhyd.sohu.blog:9999/tsfile/live/1012_1.m3u8?key=txiptv
+华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
+
+
+
+
 
 🔞模特走秀加密频道_050,#genre#
-时尚1,http://rihou.cc:555/tv/ss1
-时尚2,http://rihou.cc:555/tv/ss2
-时尚3,http://rihou.cc:555/tv/ss3
-时尚4,http://rihou.cc:555/tv/ss4
-时尚5,http://rihou.cc:555/tv/ss5
-时尚6,http://rihou.cc:555/tv/ss7
+迈阿密游泳比基尼,https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6Mjg6NTYgQU0maGFzaF92YWx1ZT1NZDJhanlJM3UwcGVZak9DdUJHdmh3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
 
+模特电视,https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6MzE6MjEgQU0maGFzaF92YWx1ZT1WVXVmVDJydStJTGh1Z1FFVkcyOVFBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+比基尼海滩电视,https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
+
+chicWave,https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
+
+超级律动,https://fl1003.bozztv.com/ushba67/index.m3u8
+
+高级定制编年史,https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
+
+舞蹈,https://fl1003.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
+
+印度音乐,https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6NDE6NDEgQU0maGFzaF92YWx1ZT1xOHMwVDJueFVKRlFUUTNYaXNaMmdBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
+
+
+FLareTV,https://fl1004.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
+
+脉冲流,https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+
+
+个性盒,https://fl1004.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
+
+视频中心,https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6NTk6MTMgQU0maGFzaF92YWx1ZT13azN1ZVlkdTFibUNFVmJtWlN5QjNnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
 
 
 
