@@ -85,8 +85,6 @@ http://183.10.180.81:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 动作电影,http://222.141.236.89:8003/rtp/225.1.2.215:11428
 影迷电影,http://219.156.49.186:9999/rtp/225.1.2.210:11398
 影迷电影,http://222.141.236.89:8003/rtp/225.1.2.210:11398
-经典电影,http://219.156.49.186:9999/rtp/225.1.2.167:11020
-经典电影,http://222.141.236.89:8003/rtp/225.1.2.167:11020
 
 🎬NewTV高清,#genre#
 NewTV东北热剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -130,16 +128,19 @@ NewTV金牌综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666
 潇湘电影,http://hunhhyd.sohu.blog:9999/tsfile/live/1012_1.m3u8?key=txiptv
 华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 
-
-
-
-
 🔞模特走秀加密频道_050,#genre#
-迈阿密游泳比基尼,https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6Mjg6NTYgQU0maGFzaF92YWx1ZT1NZDJhanlJM3UwcGVZak9DdUJHdmh3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
+比基尼海滩电视1,https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
+比基尼海滩电视2,https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
+比基尼海滩电视3,https://fl1004.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
+比基尼海滩电视4,https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
+比基尼海滩电视5,https://fl1004.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
+比基尼海滩电视6,https://fl1004.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
+比基尼海滩电视7,https://fl1004.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
+
+迈阿密游泳比基尼1,https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6Mjg6NTYgQU0maGFzaF92YWx1ZT1NZDJhanlJM3UwcGVZak9DdUJHdmh3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
+迈阿密游泳比基尼2,https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6Mjg6NTYgQU0maGFzaF92YWx1ZT1NZDJhanlJM3UwcGVZak9DdUJHdmh3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
 
 模特电视,https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6MzE6MjEgQU0maGFzaF92YWx1ZT1WVXVmVDJydStJTGh1Z1FFVkcyOVFBPT0mdmFsaWRtaW51dGVzPTE0NDA=
-
-比基尼海滩电视,https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 
 chicWave,https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
 
@@ -151,21 +152,11 @@ chicWave,https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
 
 印度音乐,https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6NDE6NDEgQU0maGFzaF92YWx1ZT1xOHMwVDJueFVKRlFUUTNYaXNaMmdBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
 
-
 FLareTV,https://fl1004.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
 
 脉冲流,https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 
-
 个性盒,https://fl1004.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
-
-视频中心,https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjYgMTI6NTk6MTMgQU0maGFzaF92YWx1ZT13azN1ZVlkdTFibUNFVmJtWlN5QjNnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
-
-
-
-
-
-
 
 
 
