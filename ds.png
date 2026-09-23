@@ -79,12 +79,10 @@ http://183.10.180.81:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8#https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 🎥CHC高清,#genre#
-家庭影院,http://219.156.49.186:9999/rtp/225.1.2.214:11422
-家庭影院,http://222.141.236.89:8003/rtp/225.1.2.214:11422
-动作电影,http://219.156.49.186:9999/rtp/225.1.2.215:11428
-动作电影,http://222.141.236.89:8003/rtp/225.1.2.215:11428
-影迷电影,http://219.156.49.186:9999/rtp/225.1.2.210:11398
-影迷电影,http://222.141.236.89:8003/rtp/225.1.2.210:11398
+家庭影院,http://222.137.81.198:4000/rtp/225.1.2.214:11422
+动作电影,http://222.137.81.198:4000/rtp/225.1.2.215:11428
+影迷电影,http://222.137.81.198:4000/rtp/225.1.2.210:11398
+经典电影,http://222.137.81.198:4000/rtp/225.1.2.167:11020
 
 🎬NewTV高清,#genre#
 NewTV东北热剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
